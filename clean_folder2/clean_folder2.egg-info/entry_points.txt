@@ -1,0 +1,3 @@
+[console_scripts]
+clean-folder2 = clean_folder2.clean2:sort_in_dir
+
